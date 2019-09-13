@@ -1,0 +1,30 @@
+.container{
+    background-color:rgb(40, 41, 41);
+    width: 500px;
+    align-content: center;
+}
+.display{
+    height:200px;
+}
+.row{
+    width:100%;
+}
+.item{
+    display:inline-block;
+    background-color:hsl(180, 3%, 48%);
+    width: 20%; 
+    height:20%;
+    margin:2.5%;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+h4{
+    color:#fff;
+}
+.fig{
+    width:50px;
+    height:10px;
+    background-color:hsl(180, 3%, 48%);
+    text-align: center
+}
